@@ -35,10 +35,11 @@ OpenCV is licensed under (3- clause BSD) for educational and commercial use.
 
 **A**. You can activate the flash light mode by clicking the **horizontal broken lines** at the top of the screen, and click the flash light icon on the menu tray. This activates the flash light of your device camera to enable visible capturing of the documents.
 
-To contact us, please click on the **horizontal broken lines** at the top of the screen, and select **settings icon** from the menu tray, scroll down to **feedback and suggestions** and select any of the communication channel listed.
+**Q**. How can I contact the maintainers?
+
+**A**. To contact us, please click on the **horizontal broken lines** at the top of the screen, and select **settings icon** from the menu tray, scroll down to **feedback and suggestions** and select any of the communication channel listed.
 * Via GitHub.
 * Via Telegram.
 * Via Email.
 
 Thank you for using our app, if you like the app and want to make a donation, go to the **Buy me a coffee** section at the settings page of the app.
-
